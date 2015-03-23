@@ -15,7 +15,7 @@ Chat server will run on localhost with port number 5555. If you want diffenrent 
 then that can be changed in the code.
 
 ### Cliet
-Client can connect to server using telene e.g.
+Client can connect to server using telnet e.g.
 ``` bash:
      telnet localhost 5555
 ```
